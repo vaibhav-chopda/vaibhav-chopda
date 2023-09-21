@@ -11,7 +11,7 @@ I work on projects  involving technologies like:
 - ⚡ Power BI
 - ⚡ Advanced Excel
 - ⚡ Databricks
-- ⚡ Python web framework: FASTAPI, Djano & Flask
+- ⚡ Python web framework: FastAPI, Djano & Flask
 
 🌱 I’m currently learning Azure databricks, Azure data factory & Airflow to efficiently manage my ETL/ELT pipelines.
 
