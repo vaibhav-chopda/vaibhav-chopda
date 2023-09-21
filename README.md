@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 I'm Vaibhav and have experience working in Software Development, Data Analysis and ML Model Building areas.
 
 I like to learn new technologies related to ✳️ Data Science and ✳️ Machine Learning and try to continuously hone my skills in this field.
@@ -17,5 +16,5 @@ I work on projects  involving technologies like:
 
 💬 How to reach me:
 LinkedIn: https://www.linkedin.com/in/vaibhav-chopda/
---> 
+
 
