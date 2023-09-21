@@ -1,16 +1,21 @@
 ### Hi there 👋
 
 <!--
-**vaibhav-chopda/vaibhav-chopda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Vaibhav and have experience working in Software Development, Data Analysis and ML Model Building areas.
 
-Here are some ideas to get you started:
+I like to learn new technologies related to ✳️ Data Science and ✳️ Machine Learning and try to continuously hone my skills in this field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work on projects  involving technologies like:
+- ⚡ Oracle SQL / MySQL / MS SQL Server / MongoDB / Neo4j
+- ⚡ Python
+- ⚡ R
+- ⚡ Power BI
+- ⚡ Advanced Excel
+- ⚡ Databricks
+
+🌱 I’m currently learning Azure databricks, Azure data factory & Airflow to efficiently manage my ETL/ELT pipelines.
+
+💬 How to reach me:
+LinkedIn: https://www.linkedin.com/in/vaibhav-chopda/
+--> 
+
