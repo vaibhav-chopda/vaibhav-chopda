@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Vaibhav and have experience working in Software Development, Data Analysis and ML Model Building areas.
+I'm Vaibhav and have experience working in Analytics Engineering, Data Analysis & ML Model Building areas.
 
-I like to learn new technologies related to ✳️ Data Science and ✳️ Machine Learning and try to continuously hone my skills in this field.
+I like to learn new technologies related to ✳️ Analytics Engineering ✳️ Data Science and ✳️ Machine Learning and try to continuously hone my skills in this field.
 
-I work on projects  involving technologies like:
-- ⚡ Oracle SQL / MySQL / MS SQL Server / MongoDB / Neo4j
+I work on projects involving technologies like:
+- ⚡ Oracle SQL / MySQL / MS SQL Server / MongoDB / Neo4j / Snowflake / Postgres / Big Query
+- ⚡ DBT
 - ⚡ Python
 - ⚡ R
 - ⚡ Power BI
