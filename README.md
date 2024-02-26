@@ -10,7 +10,6 @@ I work on projects involving technologies like:
 - ⚡ Python
 - ⚡ R
 - ⚡ Power BI
-- ⚡ Advanced Excel
 - ⚡ Databricks
 - ⚡ Python web framework: FastAPI, Djano & Flask
 
